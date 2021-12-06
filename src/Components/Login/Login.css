@@ -1,0 +1,28 @@
+.login-signup-form{
+    width: 35%;
+    border: 1px solid rgb(230, 224, 224);
+    padding:25px;
+    margin: auto;
+    text-align: center;
+}
+.login-signup-form input:not(.submit){
+    border-bottom: 1px solid gray;
+    padding-bottom: 25px;
+}
+.submit{
+    background-color: rgb(78, 170, 78);
+}
+button{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 50px;
+    background-color: white;
+    border: 1px solid gainsboro;
+    margin-bottom: 15px;
+}
+.signup-login-with{
+    margin-top: 50px;
+    text-align: center;
+}

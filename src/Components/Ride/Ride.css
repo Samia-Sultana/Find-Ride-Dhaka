@@ -1,0 +1,31 @@
+.ride-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    height: 568px;
+    padding-right: 100px;
+    padding-left: 100px;
+
+    background-image: url('../../images/Bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.card{
+    width: 10%;
+    height: 250px;
+    margin-right: 25px;
+    text-align: center;
+}
+
+.ride-img{
+    width:60%;
+    height: 70%;
+    margin: auto;
+    padding-top: 40px;
+}
+.ride-title{
+    text-decoration: none;
+}
